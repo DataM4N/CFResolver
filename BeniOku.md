@@ -1,6 +1,7 @@
 Bilgi Toplama - CF Çözümleme:
 
 Nasıl Çalışıyor?
+
 Bilindiği üzere CloudFlare, domain adına yönelik koruma sağlamaktadır.
 Sunucu tarafıyla hiç bir bağlantısı yoktur.
 
